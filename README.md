@@ -17,5 +17,4 @@ A Dart console application that manages student information using:
 - Add new students conditionally
 
 ## Language
-
 Dart
